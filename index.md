@@ -40,7 +40,9 @@ Born in 1977, I have recently finished a degree in Applied Data Science. Long ti
 |:-----------|:-----------|:----------------------------------------------------------------------------|
 | Python     | 5 years +  | Web scraping, ETL processes, Machine Learning with Keras, personal projects |
 | R          | 3 years    | Machine Learning                                                            |
-| LAMP stack | 5 years +  | Web design, App development                                                 |
+| Java       | 1 year     | OOP course with Java                                                                            |
+| Git        | 2 years    | Basic version control skills                                                |
+| LAMP stack | 5 years +  | Web design, App devlopment                                                 |
 
 
 # Some personal projects
