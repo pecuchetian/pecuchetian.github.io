@@ -20,17 +20,19 @@
 
 title: Marc Deixt - CV
 email: marc@eugasser.com
-logo: /assets/img/cv-light.jpg
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a presentation site for Marc Deixt.
-  It could be seen as a sort of CV.
+logo: /assets/img/CV.png
+description: This is a presentation site for Marc Deixt. It could be seen as a sort of CV.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pecuchetian
 github_username:  pecuchetian
+github:
+  zip_url: http://example.com/download.zip
+  another_url: http://example.com/download.zip
+show_downloads: true
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 #theme: jekyll-theme-hacker
 # remote_theme: alshedivat/al-folio
 plugins:
