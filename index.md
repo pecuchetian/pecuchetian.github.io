@@ -45,7 +45,7 @@ Born in 1977, I have recently finished a degree in Applied Data Science. Long ti
 
 # Some personal projects
 
-- [Final Project for Bachelor's Data Science degree](./tfg/)
+- [Final Project for Bachelor's Data Science degree](https://github.com/pecuchetian/tfg/)
 - [A network study of school itineraries](./school-run/)
 - [A data viz exercise](./data-viz/)
 
